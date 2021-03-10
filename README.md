@@ -4,7 +4,7 @@
 ### Oops, all right?
 My name is Bruno, I am studying Computer Science at PUC Minas.
 
-- Currently learning:
+Currently learning:
 - C
 - C++
 - JavaScript 
