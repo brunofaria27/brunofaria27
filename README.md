@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm Bruno Faria
 20y beginner programmer, science computer stundent
 
@@ -10,4 +9,4 @@ I'm Bruno Faria
  CSS
  C
  C++
--->
+
