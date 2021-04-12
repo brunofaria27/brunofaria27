@@ -10,3 +10,4 @@ Currently learning:
 - JavaScript 
 - HTML
 - CSS
+- Java
