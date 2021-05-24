@@ -11,6 +11,7 @@
 - 👨‍🏫 I'm learning: Python, JavaScript(In-Depth), Java and C++
 - 👨‍💻 Subjects of interest: Cryptocurrencies, Information Security, Blockchain
 
+---------------------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofaria27&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
