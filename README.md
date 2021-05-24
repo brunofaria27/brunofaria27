@@ -4,13 +4,10 @@
 ### Hi there!
 My name is Bruno, I am studying Computer Science at PUC Minas.
 
-Currently learning:
-- C
-- C++
-- JavaScript 
-- HTML
-- CSS
-- Java
+🌎 Skills: JavaScript / C / HTML / CSS
+
+- 👨‍🏫 I'm learning: Python, JavaScript(In-Depth), Java and C++
+- 👨‍💻 Subjects of interest: Cryptocurrencies, Information Security, Blockchain
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofaria27&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
