@@ -6,9 +6,9 @@
 
 ---------------------------------------
 
-🌎 `Skills:` JavaScript / C / HTML / CSS
+🌎 `Skills:` JavaScript / C / HTML / CSS / C++
 
-- 👨‍🏫 `I'm learning:` Python, SQL, Java and C++
+- 👨‍🏫 `I'm learning:` Python, SQL and Java
 - 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain
 
 > My readme will be constantly updated, according to my evolution in the area
