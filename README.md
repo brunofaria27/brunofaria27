@@ -6,7 +6,9 @@
 
 ---------------------------------------
 
-🌎 `Skills:` JavaScript / C / HTML / CSS / C++
+```
+🌎 Skills: JavaScript / HTML / CSS / C++ / C
+```
 
 - 👨‍🏫 `I'm learning:` Python, SQL and Java
 - 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain
@@ -15,9 +17,11 @@
 
 ---------------------------------------
 💻 `Courses I have:`
-- Java (In Progress) `Cod3r Cursos Online - Udemy`
-- Python (In Progress) `Geek University - Udemy`
-- SQL (In Progress) `Udemy`
+```
+- Java (In Progress): Cod3r Cursos Online - Udemy
+- Python (In Progress): Geek University - Udemy
+- SQL (In Progress): Udemy
+```
 
 > My courses will be constantly updated, according to my evolution
 ---------------------------------------
