@@ -18,7 +18,7 @@
 ---------------------------------------
 💻 `Courses I have:`
 ```
-- Java (In Progress): Cod3r Cursos Online - Udemy
+- Java: Cod3r Cursos Online - Udemy
 - Python (In Progress): Geek University - Udemy
 - SQL (In Progress): Udemy
 ```
