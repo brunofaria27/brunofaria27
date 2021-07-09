@@ -7,7 +7,7 @@
 ---------------------------------------
 
 ```
-🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / MySQL
+🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL
 ```
 
 - 👨‍🏫 `I'm learning:` Python
