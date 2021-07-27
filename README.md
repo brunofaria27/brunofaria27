@@ -10,8 +10,8 @@
 🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL
 ```
 
-- 👨‍🏫 `I'm learning:` Python, AWS Amazon.
-- 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain, NFTs.
+- 👨‍🏫 `I'm learning:` Python, AWS Amazon
+- 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain, NFTs
 
 > My readme will be constantly updated, according to my evolution in the area.
 
