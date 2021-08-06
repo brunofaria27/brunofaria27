@@ -13,7 +13,7 @@
 - 👨‍🏫 `I'm learning:` Python, AWS Amazon.
 - 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain, NFTs.
 
-> My readme will be constantly updated, according to my evolution in the area.
+> My readme will be constantly updated, according to my evolution in the area
 
 ---------------------------------------
 💻 `Courses I have:`
@@ -22,7 +22,7 @@
 - Python (In Progress): Geek University - Udemy
 ```
 
-> My courses will be constantly updated, according to my evolution.
+> My courses will be constantly updated, according to my evolution
 ---------------------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofaria27&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
