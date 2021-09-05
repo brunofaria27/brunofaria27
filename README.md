@@ -13,7 +13,7 @@
 - 👨‍🏫 `I'm learning:` Python, AWS Amazon, Microsoft Azure.
 - 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Blockchain, NFTs.
 
-> My readme will be constantly updated, according to my evolution in the area.
+> My readme will be constantly updated, according to my evolution in the area
 
 ---------------------------------------
 💻 `Courses I have:`
