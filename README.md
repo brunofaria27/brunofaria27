@@ -15,7 +15,7 @@
 
 > My readme will be constantly updated, according to my evolution in the area.
 
----------------------------------------
+--------------------------------------
 💻 `Courses I have:`
 ```
 - Java: Cod3r Cursos Online - Udemy
@@ -23,7 +23,7 @@
 ```
 
 > My courses will be constantly updated, according to my evolution.
----------------------------------------
+--------------------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofaria27&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
