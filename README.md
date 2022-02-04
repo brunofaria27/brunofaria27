@@ -19,7 +19,7 @@
 💻 `Courses I have:`
 ```
 - Java: Cod3r Cursos Online - Udemy
-- Python (In Progress): Geek University - Udemy
+- Python: Geek University - Udemy
 ```
 
 > My courses will be constantly updated, according to my evolution.
