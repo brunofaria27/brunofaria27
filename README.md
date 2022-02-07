@@ -7,7 +7,7 @@
 ---------------------------------------
 
 ```
-🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL.
+🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL / Python.
 ```
 
 - 👨‍🏫 `I'm learning:` Python, AWS Amazon, Microsoft Azure, Data Science.
