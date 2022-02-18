@@ -20,6 +20,7 @@
 ```
 - Java: Cod3r Cursos Online - Udemy
 - Python: Geek University - Udemy
+- SQL: Udemy
 ```
 
 > My courses will be constantly updated, according to my evolution.
