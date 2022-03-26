@@ -15,7 +15,6 @@
 - 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Cyber Security.
 - 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Machinhe Learning, SI, Dev.
 
-> My readme will be constantly updated, according to my evolution in the area.
 
 --------------------------------------
 
