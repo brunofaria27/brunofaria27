@@ -12,7 +12,7 @@
 ```
 
 - 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Cyber Security.
-- 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Machinhe Learning, SI.
+- 👨‍💻 `Subjects of interest:` Cryptocurrencies, Information Security, Machinhe Learning.
 
 
 ----------------------------------------
