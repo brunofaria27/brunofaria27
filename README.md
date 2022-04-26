@@ -8,7 +8,7 @@
 ---------------------------------------
 
 ```
-🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL / Python / Pentester.
+🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL / Python.
 ```
 
 - 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Cyber Security.
