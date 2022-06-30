@@ -8,10 +8,10 @@
 ---------------------------------------
 
 ```
-🌎 Skills: JavaScript / HTML / CSS / C++ / C / Java / SQL / Python.
+🌎 Skills: JavaScript / C++ / C / Java / SQL / Python / Cyber Security.
 ```
 
-- 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Cyber Security, Machinhe Learning.
+- 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Machinhe Learning.
 - 👨‍💻 `Subjects of interest:` Information Security.
 
 
