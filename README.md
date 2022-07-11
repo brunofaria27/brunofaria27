@@ -11,7 +11,7 @@
 🌎 Skills: JavaScript / C++ / C / Java / SQL / Python / Cyber Security.
 ```
 
-- 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Machinhe Learning.
+- 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Machine Learning.
 - 👨‍💻 `Subjects of interest:` Information Security.
 
 
