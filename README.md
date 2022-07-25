@@ -7,17 +7,38 @@
 
 ---------------------------------------
 
-```
-🌎 Skills: JavaScript / C++ / C / Java / SQL / Python / Cyber Security.
-```
+💻 **Languages and Tools:** 🛠️<br>
 
-- 👨‍🏫 `I'm learning:` AWS Amazon, Microsoft Azure, Data Science, Machine Learning.
-- 👨‍💻 `Subjects of interest:` Information Security.
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=OpenJDK&logoColor=ffffff&labelColor=orange)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c&logoColor=ffffff&labelColor=blue)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&logoColor=ffffff&labelColor=orange)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=FC7E2F)
+![MORE](https://img.shields.io/badge/-MORE_SKILLS-000000?style=flat&logo=MORE&logoColor=ffffff&labelColor=FC7E2F)
 
 
-----------------------------------------
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `REST API`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Data Science`, `Artificial Inteligence`, `Back-End`, `Problems Resolution`, `Cyber Security`, `OS`, `AWS`, `Azure`, `more...`.
+
+
+🌍 **Deployment platforms:**<br>
+
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
+
+---------------------------------------
+
 <div align="center">
-  <a href="https://github.com/brunofaria27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofaria27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+ <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=brunofaria27" />
 </div>
