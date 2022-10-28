@@ -14,6 +14,6 @@
 ---------------------------------------
 
 <div align="center">
- <img width="450" height="450" align="right" style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=brunofaria27" />
-<img width="450" height="450" align="left" style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&theme=transparent&layout=complete" alt="faria"/>
+ <img width="300" height="300" align="right" style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=brunofaria27" />
+<img width="300" height="300" align="left" style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&theme=transparent&layout=complete" alt="faria"/>
 </div>
