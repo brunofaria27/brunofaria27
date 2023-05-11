@@ -7,12 +7,6 @@
 
 ---------------------------------------
 
-🧐 **Knowledge of:**<br>
-
-`Responsive web design`, `REST API`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Data Science`, `Artificial Inteligence`, `Back-End`, `Problems Resolution`, `Cyber Security`, `OS`, `AWS`, `Azure`, `more...`.
-
----------------------------------------
-
 <div align="center">
  <img width="300" height="300" align="right" style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=brunofaria27" />
 <img width="300" height="300" align="left" style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&theme=transparent&layout=complete" alt="faria"/>
