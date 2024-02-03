@@ -5,6 +5,8 @@
 ### Hi there
  📃 `About me:` My name is Bruno Faria, I'm Brazilian and I'm currently at the Faculty of Computer Science at PUC Minas. I manage to develop programs according to my interest, I study daily to absorb the maximum knowledge of different programming languages, because I try to be the best in the area I chose. Currently I am very focused on design and analysis of algorithms in high performance programming, improving algorithms and their complexity, as well as artificial intelligence and data science. We always have difficulties, but that makes me have the strength to seek more knowledge to improve what I need. My first contact with programming was at the age of 14, programming Discord Bots using the JavaScript language, I developed the programs out of pure interest in automating the operation of my server, from then on I fell in love with technology and programming.
 
+Professional GitHub: @brunofaria-hotmart
+
 ---------------------------------------
 
 <div align="center">
