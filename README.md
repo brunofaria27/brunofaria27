@@ -14,3 +14,4 @@
 <!--<img width="300" height="300" align="left" style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofaria27&theme=transparent&layout=complete" alt="faria"/>-->
 </div>
 
+
