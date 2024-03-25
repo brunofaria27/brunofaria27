@@ -7,6 +7,8 @@
 
 ✔ Professional GitHub: [@brunofaria-hotmart](https://github.com/brunofaria-hotmart)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunofaria27&label=Profile%20views&color=b40e1e&style=plastic" alt="brunofaria27" /> </p>
+
 ---------------------------------------
 
 <div align="center">
